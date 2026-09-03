@@ -15,3 +15,4 @@ In this assignment you’ll make exercises on the following topics:
 This assignment is due on 12:45, Wednesday, September 2, 2026.
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2026/credits.html).
+Hallo 
